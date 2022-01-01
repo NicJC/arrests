@@ -68,5 +68,4 @@ Arrests = a[['Arrest Year', 'Arrest Date','Age','Defendant Race','Defendant Ethn
 Arrests.columns = ['Year', 'Date', 'Age','Race','Ethnicity','Sex','Category','Latitude','Longitude','District']
 
 pd.options.display.float_format = '{:,.0f}'.format
-
-print(Arrests)
+Arrests.to_csv("Arrests.csv")
