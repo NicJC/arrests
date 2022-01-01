@@ -1,5 +1,5 @@
 # Arrests
-<hr>
+
 
 <i>police arrests:</i>
 
