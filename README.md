@@ -1,6 +1,7 @@
 # Arrests
+<hr>
 
-<ul> police arrests:</ul>
+<i>police arrests:</i>
 
 Yearly data from 2013 to 2020 of police arrests in Washington, DC.
 
